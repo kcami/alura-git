@@ -5,13 +5,6 @@
 
 ---
 
-## 🔎 Índice
-- [Sobre](#%F0%9F%93%83-sobre)
-- [O que é Git?](#%F0%9F%94%97-o-que-%C3%A9-git)
-- [O que foi aprendido?](#%F0%9F%93%9D-o-que-foi-aprendido)
-
----
-
 ## 📃 Sobre
 
 Esse projeto foi desenvolvido para aplicar o conhecimento adquirido no curso da **Alura** de [Git e Github: Controle e compartilhe seu código](https://www.alura.com.br/curso-online-git-github-controle-de-versao) e de [Git e Github: Estratégias de ramificação, Conflitos e Pull Requests](https://www.alura.com.br/curso-online-git-github-branching-conflitos-pull-requests). Além disso, utilizou-se o vídeo [Como criar um README](https://www.youtube.com/watch?v=Gcb60rPbnKA) da Daniele Leão para criar este arquivo.
