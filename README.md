@@ -36,37 +36,28 @@ Git é um sistema popular de **controle de versões**, utilizado para projetos p
 ## 📝 O que foi aprendido?
 Durante esses dois cursos, aprendeu-se diversos conceitos como:
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px>
-Criar repositórios locais e remotos
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px> Criar repositórios locais e remotos
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px>
-Resolver merges e conflitos
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px> Resolver merges e conflitos
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px>
-Desfazer commits errados
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px> Desfazer commits errados
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px>
-Verificar as alterações feitas no código, quem as fez e encontrar em qual commit foi feito
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px> Verificar as alterações feitas no código, quem as fez e encontrar em qual commit foi feito
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px>
-Organização de branches com o GitFlow
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px> Organização de branches com o GitFlow
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px>
-Trazer um só commit para uma branch diferente
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px> Trazer um só commit para uma branch diferente
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px>
-Entender issues e pull requests
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px> Entender issues e pull requests
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px>
-Trabalhar com ferramentas visuais como GitKraken
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px> Trabalhar com ferramentas visuais como GitKraken
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px>
-Entender hooks e eventos
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828643.png" height=14px> Entender hooks e eventos
 
 ---
 
 <div align="center">
-    <img src="https://cdn-icons.flaticon.com/png/512/4661/premium/4661318.png?token=exp=1644803022~hmac=2f8c2fcddfce8190a858852e11cbd7a8" height=90px>
+    <img src="https://ik.imagekit.io/kjun1uxf652/developer_72zjiNSc6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644803664147" height=90px>
 </div>
 <div align="center">
     Desenvolvido por Camila Motta Renó, treinee da Diretoria de Vice-Presidência (DVP) 💜
